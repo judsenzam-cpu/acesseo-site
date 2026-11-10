@@ -1,0 +1,18 @@
+SITE INSTITUCIONAL — GEOVANE MOURA
+
+Arquivos:
+- index.html: página principal
+- styles.css: estilos personalizados
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- sobre.html: informações institucionais
+- assets/: imagens fornecidas e selecionadas
+
+Como publicar:
+1. Envie todos os arquivos e a pasta assets para a mesma pasta no seu serviço de hospedagem.
+2. Mantenha os nomes dos arquivos e a estrutura de pastas.
+3. Abra index.html para testar localmente ou publique em sua hospedagem com HTTPS.
+4. Bootstrap e Bootstrap Icons são carregados por CDN; a conexão com a internet é necessária.
+
+ATENÇÃO:
+Os textos legais são modelos iniciais, não parecer jurídico. Revise-os para refletir os serviços realmente prestados, cookies e ferramentas instaladas, fornecedores, retenção de dados e processos internos. Verifique também o endereço, telefone, e-mail, CNPJ, CNAE e situação cadastral antes de publicar. O site não promete recuperação de valores, consultas a bases específicas ou resultados que não tenham sido confirmados.
